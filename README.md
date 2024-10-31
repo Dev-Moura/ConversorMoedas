@@ -14,5 +14,5 @@ Funcionalidades
 Tecnologias Utilizadas
 
 * Linguagem de Programação: JAVA.
-* API de Câmbio: [Exchange Rates API]
-* Outras dependências: [gson-2.10.1.jar]
+* API de Câmbio: Exchange Rates API
+* Outras dependências: gson-2.10.1.jar
