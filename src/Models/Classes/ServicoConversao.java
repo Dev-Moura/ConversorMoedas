@@ -76,7 +76,5 @@ public class ServicoConversao {
                 throw new RuntimeException(e);
             }
         }
-        // Fechamento do scanner
-        scanner.close();
     }
 }
